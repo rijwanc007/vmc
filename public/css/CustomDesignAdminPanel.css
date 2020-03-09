@@ -1,0 +1,244 @@
+body{
+    overflow-x: hidden !important;
+    font-family: cursive !important;
+}
+.input_field_design{
+    padding: 10px;
+    border: 2px dashed slategrey;
+    outline: none;
+    font-size: 20px;
+    font-family: 'Economica', 'Arial', sans-serif;
+    font-weight: 400;
+    transition: all 0.2s ease;
+    background-color: white;
+    width:100%;
+}
+.input_label{
+    color: slategrey;
+}
+.card_body_border{
+    border: 1px solid silver;
+}
+.submit_button{
+    background-color: white;
+    color: slategrey;
+    padding: 0px 46px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: 2px solid silver;
+    border-radius: 2em;
+}
+.vmc_logo{
+    height: 29px !important;
+}
+.heading_text_design{
+    font-family: cursive;
+    color:slategrey;
+}
+.submit_button_one{
+    background-color: white;
+    color: slategrey;
+    padding: 0px 46px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: 2px solid silver;
+    width: 100%;
+}
+.welcome_text{
+    margin-top: 20%;
+    font-size: 40px;
+    color: slategrey;
+    font-family: cursive;
+}
+.navigation_design>li>a,.navigation_design>li>ul>li{
+    font-family: cursive !important;
+}
+.heading_text{
+    font-family: cursive;
+    color:slategrey;
+}
+.heading_text_two{
+    font-family: cursive;
+    color:slategrey;
+}
+.container_design{
+    margin-left: 7% !important;
+    margin-top: 4%;
+}
+.container_design_appointment{
+    margin-left: 7% !important;
+}
+.card_box {
+    background: #FFF;
+    border-radius: 2px;
+    display: inline-block;
+    height: auto;
+    /*margin: 1rem ;*/
+    margin-bottom: 33px;
+    margin-left: 24px;
+    margin-top: 33px ;
+    position: relative;
+    width: 300px;
+    padding: 11px;
+}
+
+.card-1 {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.card-1:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.card-1 > p{
+    color:slategrey;
+}
+.approve_mail{
+    margin-right: 1px;
+}
+.button_center{
+    margin-left: 9%;
+}
+.employee_image{
+    border: 8px solid #F5F5F5;
+    border-radius: 50%;
+    height: 150px;
+    width: 60%;
+    margin-left: 21%;
+    margin-top: -23%;
+}
+.button_center_two{
+    margin-left:26%;
+}
+.button_center_three{
+    margin-left: 9%;
+}
+.form-horizontal .form-group {
+     margin-left: 0px !important;
+     margin-right: 0px !important;
+}
+.text_align{
+    text-align: -webkit-right !important;
+    color:slategrey;
+}
+.role_value{
+    cursor: pointer;
+    text-align: -webkit-center;
+    font-size: 15px;
+    padding: 5px;
+}
+.role_value:hover{
+    text-decoration: none;
+    color: #333;
+    background-color: #f5f5f5;
+}
+.modal_button{
+    margin-left: 14%;
+}
+.confirm_password{
+    margin-top: 14px;
+}
+.image_edit_preview{
+    height: 50px;
+    width: 93px;
+    margin-left: 18.5%;
+    margin-bottom: 6px;
+}
+.fashion_image_pre_size{
+    height: 206px;
+    width: 100%;
+}
+.employee_assignment{
+    color: slateblue;
+}
+
+.empoProfile{
+    text-align: center;
+    border: 1px solid #28343a;
+    margin: 10px 70px;
+}
+.empoProfile img{
+    height: 140px;
+    width: 120px;
+}
+/* footer part */
+.employee_form .form-control{
+    border: none;
+    border-bottom: 1px solid #666666;
+    background: transparent!important;
+    /* padding: 30px 0; */
+    text-align: center;
+    color: #666666;
+    border-radius: 0;
+    font-size: 16px;
+}
+.employee_form label{
+    font-size: 20px;
+}
+.e_center{
+    text-align: center;
+}
+.main_navbar {
+    background: #666666 ! important;
+    padding: 5px 0;
+    border: none!important;
+}
+.input_padding{
+    margin-bottom: 5px;
+    width: 446px;
+    height: 35px;
+    border: 1px solid #AAA;
+    border-radius: 0.3em;
+    margin-right: 3px;
+}
+.remove_input_element{
+    background: red;
+    border: none;
+    color: white;
+}
+.button_assignment{
+    width: 130px;
+    margin-left: 6px;
+}
+.sidebar-main {
+    background: #fff ! important;
+}
+.navigation>li>a{
+    font-size: 16px;
+    color: #454545!important;
+    font-weight: normal!important;
+    font-family: regular;
+}
+.navigation>li.active>a, .navigation>li.active>a:hover, .navigation>li.active>a:focus {
+    background-color: #ebebeb!important;
+    color: #454545!important;
+}
+.emp_form_btn {
+    background: #666666 ! important;
+    color: #fff;
+}
+.main_footer{
+    background: #666666;
+    text-align: center;
+    padding: 10px 0;
+}
+.main_footer p{
+    color: #fff;
+}
+.navigation>li ul li a {
+    color: #454545 !important;
+}
+
+.navigation li>.has-ul:after{
+    right: 140px!important;
+}

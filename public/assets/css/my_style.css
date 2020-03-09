@@ -1,0 +1,67 @@
+
+.empoProfile{
+    text-align: center;
+    border: 1px solid #28343a;
+    margin: 10px 70px;
+}
+.empoProfile img{
+    height: 140px;
+    width: 120px;
+}
+
+
+/* footer part */
+.employee_form .form-control{
+    border: none;
+    border-bottom: 1px solid #666666;
+     background: transparent!important;
+    /* padding: 30px 0; */
+    text-align: center;
+    color: #666666;
+    border-radius: 0;
+    font-size: 16px;
+}
+.employee_form label{
+    font-size: 20px;
+}
+.e_center{
+    text-align: center;
+}
+.main_navbar {
+    /*background: #666666 ! important;*/
+    padding: 5px 0;
+    border: none!important;
+    background: none ! important;
+}
+.sidebar-main {
+    background: #fff ! important;
+}
+.navigation>li>a{
+    font-size: 16px;
+    color: #454545!important;
+    font-weight: normal!important;
+    font-family: regular;
+}
+.navigation>li.active>a, .navigation>li.active>a:hover, .navigation>li.active>a:focus {
+    background-color: #ebebeb!important;
+    color: #454545!important;
+}
+.emp_form_btn {
+    background: #666666 ! important;
+    color: #fff;
+}
+.main_footer{
+    background: #666666;
+    text-align: center;
+    padding: 10px 0;
+}
+.main_footer p{
+    color: #fff;
+}
+.navigation>li ul li a {
+    color: #454545 !important;
+}
+
+.navigation li>.has-ul:after{
+    right: 140px!important;
+}

@@ -1,0 +1,2577 @@
+@media (max-width: 240px) {
+    .tv_cursor {
+       min-height: 8%;
+       min-width: 27%;
+       left: 32%;
+       top: 4%;
+    }
+
+   .video_player_design {
+       margin-top: -8px;
+   }
+   #home button {
+       top: 0%;
+       right: 0%;
+   }
+   .logo {
+       top: 9%;
+   }
+    .fashionDesign {
+        height: 16px;
+        width: 16px;
+        margin-top: -38%;
+        margin-left: 62%;
+
+    }
+    .communityDesign {
+        height: 16px;
+        width: 16px;
+        margin-left: 62%;
+        margin-top: -30.8%;
+    }
+
+    .calender {
+        height: 4px;
+        width: 12px;
+        margin-left: 63.5%;
+        margin-top: -22.9%;
+
+    }
+
+    .career {
+
+        height: 4px;
+        width: 12px;
+        margin-left: 63.5%;
+        margin-top: -20.2%;
+
+    }
+
+    .contact {
+        height: 5px;
+        width: 12px;
+        margin-left: 63.5%;
+        margin-top: -18.2%;
+    }
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 32%;
+        top: 4p
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -12px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 12px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 47px;
+    }
+
+    .fashion_five {
+        right: 32%;
+        top: 82px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 21px;
+    }
+
+    .margin_top {
+        margin-top: 131px;
+    }
+
+    .fashion_flex {
+        margin-left: 3px;
+        margin-right: 5px;
+    }
+
+    /* contact us start */
+    .contact_video_player_design {
+        margin-top: 110px;
+    }
+
+    .text_me {
+        height: 11.432px;
+        width: 10.017px;
+        margin-top: -63px;
+        margin-left: 103.5px;
+    }
+
+    .home {
+        height: 10.432px;
+        width: 15.017px;
+        margin-top: -66px;
+        margin-left: 115px;
+    }
+
+    .mail_me {
+        height: 10.432px;
+        width: 7.017px;
+        margin-top: -72px;
+        margin-left: 135px;
+    }
+
+    .aer {
+
+        height: 7.432px;
+        width: 10.017px;
+        margin-top: -49px;
+        margin-left: 108px;
+    }
+
+    .ccs {
+        height: 7.432px;
+        width: 11.017px;
+        margin-top: -53px;
+        margin-left: 122px;
+    }
+
+    .ftst {
+        height: 7.432px;
+        width: 11.017px;
+        margin-top: -57px;
+        margin-left: 136px;
+    }
+
+    .ftsm {
+        height: 7.432px;
+        width: 11.017px;
+        margin-top: -41px;
+        margin-left: 111px;
+    }
+
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .facebook,
+    .insta,
+    .lookbook,
+    .snapchat,
+    .pintrst {
+        height: 30px;
+        width: 30px;
+        margin-left: 12px;
+    }
+    
+
+}
+
+
+@media (min-width: 240.9px) and (max-width: 320px) {
+       .tv_cursor {
+          min-height: 14%;
+          min-width: 27%;
+          left: 32%;
+          top: 2%;
+       }
+    .mobile_cursor {
+        min-height: 14%;
+        min-width: 16%;
+        left: 40%;
+        top: 59%;
+
+    }
+    .fashionDesign {
+        height: 22px;
+        width: 22px;
+        margin-top: -37.6%;
+        margin-left: 62.1%;
+    }
+
+    .communityDesign {
+        height: 21px;
+        width: 21px;
+        margin-left: 62%;
+        margin-top: -30.3%;
+    }
+
+    .calender {
+        height: 4px;
+        width: 14px;
+        margin-left: 63.5%;
+        margin-top: -21.9%;
+    }
+
+    .career {
+        height: 4px;
+        width: 14px;
+        margin-left: 63.5%;
+        margin-top: -20.1%;
+    }
+
+    .contact {
+        height: 4px;
+        width: 14px;
+        margin-left: 63.5%;
+        margin-top: -18.4%;
+    }
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 32%;
+        top: 1px;
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -18px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 15px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 62px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 110px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 30px;
+    }
+
+    .margin_top {
+        margin-top: 196px;
+    }
+
+    .fashion_flex {
+        margin-left: 3px;
+        margin-right: 5px;
+    }
+
+    /* contact us start */
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .contact_video_player_design {
+        margin-top: 172px;
+    }
+
+
+    .text_me {
+        height: 16.432px;
+        width: 14.017px;
+        margin-top: -82px;
+        margin-left: 139px;
+    }
+
+    .home {
+        height: 13.432px;
+        width: 19.017px;
+        margin-top: -86px;
+        margin-left: 156px;
+    }
+
+    .mail_me {
+        height: 12.432px;
+        width: 9.017px;
+        margin-top: -93px;
+        margin-left: 180px;
+    }
+
+    .aer {
+        height: 9.432px;
+        width: 12.017px;
+        margin-top: -63px;
+        margin-left: 147px;
+    }
+
+    .ccs {
+        height: 9.432px;
+        width: 13.017px;
+        margin-top: -68px;
+        margin-left: 163px;
+    }
+
+    .ftst {
+        height: 9.432px;
+        width: 12.017px;
+        margin-top: -74px;
+        margin-left: 184px;
+    }
+
+    .ftsm {
+        height: 9.432px;
+        width: 11.017px;
+        margin-top: -52px;
+        margin-left: 150px;
+    }
+
+
+}
+
+@media (min-width: 320.9px) and (max-width: 360px) {
+     .tv_cursor {
+         min-height: 14%;
+         min-width: 27%;
+         left: 32%;
+         top: 3%;
+     }
+
+    .fashionDesign {
+        height: 24px;
+        width: 24px;
+        margin-top: -37.2%;
+        margin-left: 62.1%;
+    }
+
+    .communityDesign {
+        height: 24px;
+        width: 24px;
+        margin-left: 62.1%;
+        margin-top: -29.9%;
+    }
+
+    .calender {
+        height: 4px;
+        width: 15px;
+        margin-left: 63.5%;
+        margin-top: -21.9%;
+    }
+
+    .career {
+        height: 4px;
+        width: 15px;
+        margin-left: 63.5%;
+        margin-top: -19.9%;
+    }
+
+    .contact {
+        height: 4px;
+        width: 15px;
+        margin-left: 63.5%;
+        margin-top: -18.1%;
+    }
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 32%;
+        top: 4p
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -22px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 18px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 70px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 124px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 34px;
+    }
+
+    .margin_top {
+        margin-top: 196px;
+    }
+
+    .fashion_flex {
+        margin-left: 3px;
+        margin-right: 5px;
+    }
+
+    /* contact us start */
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .contact_video_player_design {
+        margin-top: 172px;
+    }
+
+
+    .text_me {
+        height: 17.432px;
+        width: 14.017px;
+        margin-top: -92px;
+        margin-left: 156px;
+    }
+
+    .home {
+        height: 14.432px;
+        width: 21.017px;
+        margin-top: -96px;
+        margin-left: 175px;
+    }
+
+    .mail_me {
+        height: 16.432px;
+        width: 10.017px;
+        margin-top: -105px;
+        margin-left: 202px;
+    }
+
+    .aer {
+        height: 10.432px;
+        width: 13.017px;
+        margin-top: -71px;
+        margin-left: 164px;
+    }
+
+    .ccs {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -77px;
+        margin-left: 183px;
+    }
+
+    .ftst {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -83px;
+        margin-left: 204px;
+    }
+
+    .ftsm {
+        height: 11.432px;
+        width: 14.017px;
+        margin-top: -59px;
+        margin-left: 169px;
+    }
+
+
+}
+
+@media (min-width: 360.9px) and (max-width: 376px) {
+     .tv_cursor {
+         min-height: 14%;
+         min-width: 27%;
+         left: 32%;
+         top: 3%;
+     }
+    .fashionDesign {
+        height: 24px;
+        width: 24px;
+        margin-top: -37%;
+        margin-left: 62.1%;
+    }
+
+    .communityDesign {
+        height: 24px;
+        width: 24px;
+        margin-left: 62.1%;
+        margin-top: -29.9%;
+    }
+
+    .calender {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -21.9%;
+    }
+
+    .career {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -19.7%;
+    }
+
+    .contact {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -17.9%;
+    }
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 4p
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -20px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 20px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 76px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 132px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 37px;
+    }
+
+    .margin_top {
+        margin-top: 196px;
+    }
+
+    .fashion_flex {
+        margin-left: 3px;
+        margin-right: 5px;
+    }
+
+    /* contact us start */
+    .contact_video_player_design {
+        margin-top: 172px;
+    }
+
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .text_me {
+        height: 18.432px;
+        width: 15.017px;
+        margin-top: -96px;
+        margin-left: 163px;
+    }
+
+    .home {
+        height: 14.432px;
+        width: 21.017px;
+        margin-top: -100px;
+        margin-left: 184px;
+    }
+
+    .mail_me {
+        height: 15.432px;
+        width: 11.017px;
+        margin-top: -109px;
+        margin-left: 210px;
+    }
+
+    .aer {
+        height: 12.432px;
+        width: 15.017px;
+        margin-top: -74px;
+        margin-left: 170px;
+    }
+
+    .ccs {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -80px;
+        margin-left: 191px;
+    }
+
+    .ftst {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -86px;
+        margin-left: 214px;
+    }
+
+    .ftsm {
+        height: 11.432px;
+        width: 14.017px;
+        margin-top: -61px;
+        margin-left: 175px;
+    }
+
+
+}
+
+@media (min-width: 376.9px) and (max-width: 384px) {
+     .tv_cursor {
+         min-height: 11%;
+         min-width: 27%;
+         left: 32%;
+         top: 3%;
+     }
+    .fashionDesign {
+        height: 24px;
+        width: 24px;
+        margin-top: -37%;
+        margin-left: 62.1%;
+    }
+
+    .communityDesign {
+        height: 24px;
+        width: 24px;
+        margin-left: 62.1%;
+        margin-top: -29.9%;
+    }
+
+    .calender {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -21.9%;
+    }
+
+    .career {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -19.7%;
+    }
+
+    .contact {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -17.9%;
+    }
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 4p
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -20px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 20px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 76px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 132px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 37px;
+    }
+
+    .margin_top {
+        margin-top: 196px;
+    }
+
+    .fashion_flex {
+        margin-left: 3px;
+        margin-right: 5px;
+    }
+
+    /* contact us start */
+    .contact_video_player_design {
+        margin-top: 172px;
+    }
+
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .text_me {
+        height: 16.432px;
+        width: 15.017px;
+        margin-top: -97px;
+        margin-left: 168px;
+    }
+
+    .home {
+        height: 14.432px;
+        width: 21.017px;
+        margin-top: -100px;
+        margin-left: 188px;
+    }
+
+    .mail_me {
+        height: 15.432px;
+        width: 11.017px;
+        margin-top: -109px;
+        margin-left: 216px;
+    }
+
+    .aer {
+        height: 12.432px;
+        width: 15.017px;
+        margin-top: -75px;
+        margin-left: 174px;
+    }
+
+    .ccs {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -81px;
+        margin-left: 197px;
+    }
+
+    .ftst {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -88px;
+        margin-left: 220px;
+    }
+
+    .ftsm {
+        height: 11.432px;
+        width: 14.017px;
+        margin-top: -61px;
+        margin-left: 180px;
+    }
+
+
+}
+
+@media (min-width: 384.9px) and (max-width: 395px) {
+     .tv_cursor {
+         min-height: 11%;
+         min-width: 27%;
+         left: 32%;
+         top: 3%;
+     }
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .fashionDesign {
+        height: 26px;
+        width: 26px;
+        margin-top: -37.2%;
+        margin-left: 62.1%;
+    }
+
+    .communityDesign {
+        height: 26px;
+        width: 26px;
+        margin-left: 62%;
+        margin-top: -29.9%;
+    }
+
+    .calender {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -21.9%;
+    }
+
+    .career {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -19.7%;
+    }
+
+    .contact {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -17.9%;
+    }
+
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: 0px;
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 0px;
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -16px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 20px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 80px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 138px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 37px;
+    }
+
+    .margin_top {
+        margin-top: 210px;
+    }
+
+    .fashion_flex {
+        margin-left: 3px;
+        margin-right: 5px;
+    }
+
+
+    /*fs department start*/
+    .fs_department_margin_575 {
+        margin-top: 10px;
+    }
+
+
+    /* fashino deparment page */
+    .career_padding_right {
+        padding-right: 15px !important;
+    }
+
+    .career_padding_left {
+        padding-right: 15px !important;
+    }
+
+    .f_t_s_1 {
+        text-align: center;
+        width: 220px;
+    }
+
+    /* contact us start */
+    .contact_video_player_design {
+        margin-top: 192px;
+    }
+
+    .text_me {
+        height: 18.432px;
+        width: 15.017px;
+        margin-top: -100px;
+        margin-left: 171px;
+    }
+
+    .home {
+        height: 14.432px;
+        width: 21.017px;
+        margin-top: -106px;
+        margin-left: 192px;
+    }
+
+    .mail_me {
+        height: 15.432px;
+        width: 11.017px;
+        margin-top: -115px;
+        margin-left: 221px;
+    }
+
+    .aer {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -78px;
+        margin-left: 178px;
+    }
+
+    .ccs {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -84px;
+        margin-left: 201px;
+    }
+
+    .ftst {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -91px;
+        margin-left: 224px;
+    }
+
+    .ftsm {
+        height: 11.432px;
+        width: 14.017px;
+        margin-top: -64px;
+        margin-left: 185px;
+    }
+}
+
+@media (min-width: 395.9px) and (max-width: 415px) {
+     .tv_cursor {
+         min-height: 13%;
+         min-width: 27%;
+         left: 32%;
+         top: 4%;
+     }
+    .footer_margin {
+        margin-top: 0px;
+    }
+    .fashionDesign {
+        height: 27px;
+        width: 27px;
+        margin-top: -37.1%;
+        margin-left: 62.2%;
+    }
+
+    .communityDesign {
+        height: 26px;
+        width: 26px;
+        margin-left: 62%;
+        margin-top: -29.9%;
+    }
+
+    .calender {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -21.9%;
+    }
+
+    .career {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -19.7%;
+    }
+
+    .contact {
+        height: 5px;
+        width: 18px;
+        margin-left: 63.5%;
+        margin-top: -17.9%;
+    }
+
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: 0px;
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 0px;
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -16px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 20px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 80px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 141px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 37px;
+    }
+
+    .margin_top {
+        margin-top: 210px;
+    }
+
+    .fashion_flex {
+        margin-left: 3px;
+        margin-right: 5px;
+    }
+
+
+    /*fs department start*/
+    .fs_department_margin_575 {
+        margin-top: 10px;
+    }
+
+
+    /* fashino deparment page */
+    .career_padding_right {
+        padding-right: 15px !important;
+    }
+
+    .career_padding_left {
+        padding-right: 15px !important;
+    }
+
+    .f_t_s_1 {
+        text-align: center;
+        width: 220px;
+    }
+
+    /* contact us start */
+    .contact_video_player_design {
+        margin-top: 192px;
+    }
+
+    .text_me {
+        height: 18.432px;
+        width: 15.017px;
+        margin-top: -104px;
+        margin-left: 180px;
+    }
+
+    .home {
+        height: 16.432px;
+        width: 21.017px;
+        margin-top: -109px;
+        margin-left: 202px;
+    }
+
+    .mail_me {
+        height: 16.432px;
+        width: 11.017px;
+        margin-top: -118px;
+        margin-left: 232.5px;
+    }
+
+    .aer {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -80px;
+        margin-left: 188px;
+    }
+
+    .ccs {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -87px;
+        margin-left: 211px;
+    }
+
+    .ftst {
+        height: 11.432px;
+        width: 15.017px;
+        margin-top: -94px;
+        margin-left: 236px;
+    }
+
+    .ftsm {
+        height: 11.432px;
+        width: 14.017px;
+        margin-top: -66px;
+        margin-left: 194px;
+    }
+}
+
+@media (min-width: 415.9px) and (max-width: 601px) {
+    .tv_cursor {
+       min-height: 15%;
+       min-width: 27%;
+       left: 32%;
+       top: 8%;
+    }
+    .fashionDesign {
+        height: 38px;
+        width: 38px;
+        margin-top: -36.7%;
+        margin-left: 62.2%;
+    }
+
+    .communityDesign {
+        height: 38px;
+        width: 38px;
+        margin-left: 62.1%;
+        margin-top: -29.3%;
+    }
+
+    .calender {
+        height: 6px;
+        width: 23px;
+        margin-left: 64%;
+        margin-top: -21.2%;
+    }
+
+    .career {
+        height: 6px;
+        width: 23px;
+        margin-left: 64.2%;
+        margin-top: -19.2%;
+    }
+
+    .contact {
+        height: 6px;
+        width: 23px;
+        margin-left: 64.2%;
+        margin-top: -17.6%;
+    }
+
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: 0px;
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 0px;
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -30px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 27px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 115px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 200px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 55px;
+    }
+
+    .margin_top {
+        margin-top: 310px;
+    }
+
+    .fashion_flex {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    /* end community part */
+    /* contact us start */
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .contact_video_player_design {
+        margin-top: 265px;
+    }
+
+    .text_me {
+        height: 30.432px;
+        width: 22.017px;
+        margin-top: -150px;
+        margin-left: 263px;
+    }
+
+    .home {
+        height: 26.432px;
+        width: 36.017px;
+        margin-top: -159px;
+        margin-left: 292px;
+    }
+
+    .mail_me {
+        height: 29.432px;
+        width: 16.017px;
+        margin-top: -172px;
+        margin-left: 338px;
+    }
+
+    .aer {
+        height: 18.432px;
+        width: 27.017px;
+        margin-top: -115px;
+        margin-left: 269px;
+    }
+
+    .ccs {
+        height: 17.432px;
+        width: 25.017px;
+        margin-top: -125px;
+        margin-left: 307px;
+    }
+
+    .ftst {
+        height: 17.432px;
+        width: 25.017px;
+        margin-top: -135px;
+        margin-left: 342px;
+    }
+
+    .ftsm {
+        height: 17.432px;
+        width: 25.017px;
+        margin-top: -94px;
+        margin-left: 279px;
+    }
+}
+
+@media (min-width: 601.9px) and (max-width: 769px) {
+      .tv_cursor {
+          min-height: 18%;
+          min-width: 27%;
+          left: 32%;
+          top: 12%;
+      }
+    .video_player_design {
+        margin-top: -27px;
+    }
+    #home button {
+        top: 3%;
+        right: 3%;
+    }
+
+    .logo {
+        top: 9%;
+    }
+    .fashionDesign {
+        height: 46px;
+        width: 46px;
+        margin-top: -36.3%;
+        margin-left: 62.4%;
+    }
+
+    .communityDesign {
+        height: 46px;
+        width: 46px;
+        margin-left: 62.2%;
+        margin-top: -29%;
+    }
+
+    .calender {
+        height: 8px;
+        width: 27px;
+        margin-left: 64.2%;
+        margin-top: -21%;
+    }
+
+    .career {
+        height: 8px;
+        width: 27px;
+        margin-left: 64.2%;
+        margin-top: -19%;
+    }
+
+    .contact {
+        height: 8px;
+        width: 27px;
+        margin-left: 64.2%;
+        margin-top: -17.4%;
+    }
+
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: 0px;
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 0px;
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -30px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 36px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 146px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 257px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 69px;
+    }
+
+    .margin_top {
+        margin-top: 405px;
+    }
+
+    .fashion_flex {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    /* end community part */
+    /* contact us start */
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .contact_video_player_design {
+        margin-top: 400px;
+    }
+
+    .text_me {
+        height: 35.432px;
+        width: 31.017px;
+        margin-top: -189px;
+        margin-left: 334px;
+    }
+
+    .home {
+        height: 33.432px;
+        width: 40.017px;
+        margin-top: -200px;
+        margin-left: 376px;
+    }
+
+    .mail_me {
+        height: 37.432px;
+        width: 20.017px;
+        margin-top: -217px;
+        margin-left: 433px;
+    }
+
+    .aer {
+        height: 23.432px;
+        width: 33.017px;
+        margin-top: -145px;
+        margin-left: 346px;
+    }
+
+    .ccs {
+        height: 21.432px;
+        width: 28.017px;
+        margin-top: -157px;
+        margin-left: 394px;
+    }
+
+    .ftst {
+        height: 21.432px;
+        width: 28.017px;
+        margin-top: -170px;
+        margin-left: 438px;
+    }
+
+    .ftsm {
+        height: 21.432px;
+        width: 33.017px;
+        margin-top: -116px;
+        margin-left: 357px;
+    }
+}
+
+@media (min-width: 769.9px) and (max-width: 801px) {
+      .tv_cursor {
+          min-height: 16%;
+          min-width: 27%;
+          left: 32%;
+          top: 8%;
+      }
+    .fashionDesign {
+        height: 48px;
+        width: 48px;
+        margin-top: -36.2%;
+        margin-left: 62.4%;
+    }
+
+    .communityDesign {
+        height: 48px;
+        width: 48px;
+        margin-left: 62.2%;
+        margin-top: -29%;
+    }
+
+    .calender {
+        height: 8px;
+        width: 27px;
+        margin-left: 64.2%;
+        margin-top: -21%;
+    }
+
+    .career {
+        height: 8px;
+        width: 27px;
+        margin-left: 64.2%;
+        margin-top: -19%;
+    }
+
+    .contact {
+        height: 8px;
+        width: 27px;
+        margin-left: 64.2%;
+        margin-top: -17.4%;
+    }
+
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: 0px;
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 0px;
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -30px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 36px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 148px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 263px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 69px;
+    }
+
+    .margin_top {
+        margin-top: 405px;
+    }
+
+    .fashion_flex {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    /* end community part */
+    /* contact us start */
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .contact_video_player_design {
+        margin-top: 360px;
+    }
+
+    .text_me {
+        height: 35.432px;
+        width: 31.017px;
+        margin-top: -198px;
+        margin-left: 348px;
+    }
+
+    .home {
+        height: 33.432px;
+        width: 40.017px;
+        margin-top: -209px;
+        margin-left: 395px;
+    }
+
+    .mail_me {
+        height: 37.432px;
+        width: 20.017px;
+        margin-top: -228px;
+        margin-left: 452px;
+    }
+
+    .aer {
+        height: 23.432px;
+        width: 33.017px;
+        margin-top: -151px;
+        margin-left: 362px;
+    }
+
+    .ccs {
+        height: 21.432px;
+        width: 28.017px;
+        margin-top: -163px;
+        margin-left: 411px;
+    }
+
+    .ftst {
+        height: 21.432px;
+        width: 28.017px;
+        margin-top: -177px;
+        margin-left: 459px;
+    }
+
+    .ftsm {
+        height: 21.432px;
+        width: 33.017px;
+        margin-top: -121px;
+        margin-left: 371px;
+    }
+}
+
+
+@media (min-width: 801.9px) and (max-width: 835px) {
+    .tv_cursor {
+        min-height: 18%;
+        min-width: 27%;
+        left: 32%;
+        top: 10%;
+    }
+    .fashionDesign {
+        height: 50px;
+        width: 50px;
+        margin-top: -36.2%;
+        margin-left: 62.4%;
+    }
+
+    .communityDesign {
+        height: 50px;
+        width: 50px;
+        margin-left: 62.2%;
+        margin-top: -29%;
+    }
+
+    .calender {
+        height: 9px;
+        width: 31px;
+        margin-left: 64.1%;
+        margin-top: -21%;
+    }
+
+    .career {
+        height: 9px;
+        width: 31px;
+        margin-left: 64.2%;
+        margin-top: -19%;
+    }
+
+    .contact {
+        height: 9px;
+        width: 31px;
+        margin-left: 64.2%;
+        margin-top: -17.2%;
+    }
+
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: 0px;
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 0px;
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -30px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 36px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 153px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 273px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 69px;
+    }
+
+    .margin_top {
+        margin-top: 405px;
+    }
+
+    .fashion_flex {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    /* end community part */
+    /* contact us start */
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .contact_video_player_design {
+        margin-top: 360px;
+    }
+
+    .text_me {
+        height: 35.432px;
+        width: 31.017px;
+        margin-top: -202px;
+        margin-left: 362px;
+    }
+
+    .home {
+        height: 33.432px;
+        width: 40.017px;
+        margin-top: -218px;
+        margin-left: 413px;
+    }
+
+    .mail_me {
+        height: 37.432px;
+        width: 20.017px;
+        margin-top: -237px;
+        margin-left: 471px;
+    }
+
+    .aer {
+        height: 23.432px;
+        width: 33.017px;
+        margin-top: -157px;
+        margin-left: 379px;
+    }
+
+    .ccs {
+        height: 21.432px;
+        width: 28.017px;
+        margin-top: -170px;
+        margin-left: 432px;
+    }
+
+    .ftst {
+        height: 21.432px;
+        width: 28.017px;
+        margin-top: -183px;
+        margin-left: 477px;
+    }
+
+    .ftsm {
+        height: 21.432px;
+        width: 33.017px;
+        margin-top: -127px;
+        margin-left: 390px;
+    }
+}
+
+
+
+
+@media (min-width: 835.9px) and (max-width: 1025px) {
+     .tv_cursor {
+         min-height: 18%;
+         min-width: 27%;
+         left: 32%;
+         top: 11%;
+     }
+    .fashionDesign {
+        height: 62px;
+        width: 62px;
+        margin-top: -36.2%;
+        margin-left: 62.4%;
+    }
+
+    .communityDesign {
+        height: 62px;
+        width: 62px;
+        margin-left: 62.2%;
+        margin-top: -29%;
+    }
+
+    .calender {
+        height: 12px;
+        width: 37px;
+        margin-left: 64.1%;
+        margin-top: -21%;
+    }
+
+    .career {
+        height: 12px;
+        width: 37px;
+        margin-left: 64.2%;
+        margin-top: -19%;
+    }
+
+    .contact {
+        height: 12px;
+        width: 37px;
+        margin-left: 64.2%;
+        margin-top: -17.2%;
+    }
+
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: 0px;
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 0px;
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -30px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 46px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 195px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 343px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 88px;
+    }
+
+    .margin_top {
+        margin-top: 496px;
+    }
+
+    .fashion_flex {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    /* end community part */
+    /* contact us start */
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .contact_video_player_design {
+        margin-top: 460px;
+    }
+
+    .text_me {
+        height: 37.432px;
+        width: 31.017px;
+        margin-top: -245px;
+        margin-left: 452px;
+    }
+
+    .home {
+        height: 36.432px;
+        width: 51.017px;
+        margin-top: -262px;
+        margin-left: 502px;
+    }
+
+    .mail_me {
+        height: 45.432px;
+        width: 22.017px;
+        margin-top: -283px;
+        margin-left: 580px;
+    }
+
+    .aer {
+        height: 21.432px;
+        width: 34.017px;
+        margin-top: -186px;
+        margin-left: 468px;
+    }
+
+    .ccs {
+        height: 21.432px;
+        width: 34.017px;
+        margin-top: -205px;
+        margin-left: 528px;
+    }
+
+    .ftst {
+        height: 21.432px;
+        width: 37.017px;
+        margin-top: -222px;
+        margin-left: 586px;
+    }
+
+    .ftsm {
+        height: 21.432px;
+        width: 33.017px;
+        margin-top: -152px;
+        margin-left: 483px;
+    }
+}
+
+
+@media (min-width: 1025.9px) and (max-width: 1281px) {
+     .tv_cursor {
+         min-height: 28%;
+         min-width: 27%;
+         left: 32%;
+         top: 21%;
+     }
+    .fashionDesign {
+        height: 76px;
+        width: 79px;
+        margin-top: -36.1%;
+        margin-left: 62.4%;
+    }
+
+    .communityDesign {
+        height: 76px;
+        width: 79px;
+        margin-left: 62.2%;
+        margin-top: -28.8%;
+    }
+
+    .calender {
+        height: 17px;
+        width: 48px;
+        margin-left: 64.1%;
+        margin-top: -21%;
+    }
+
+    .career {
+        height: 17px;
+        width: 48px;
+        margin-left: 64.2%;
+        margin-top: -19%;
+    }
+
+    .contact {
+        height: 17px;
+        width: 48px;
+        margin-left: 64.2%;
+        margin-top: -17.2%;
+    }
+
+
+    .c_c_s_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: 0px;
+    }
+
+    .c_c_s_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .c_c_s_two {
+        right: 3%;
+    }
+
+    .c_c_s_three {
+        right: 3%;
+        top: 0px;
+    }
+
+    .c_c_s_four {
+        left: 10%;
+        top: 1px;
+    }
+
+    .c_c_s_five {
+        right: 33%;
+        top: 0px;
+    }
+
+    .c_c_s_six {
+        right: 3%;
+        top: 0px;
+    }
+
+    /* end community part */
+    .fashion_pop_up {
+        width: 20%;
+        left: 0;
+        z-index: 999;
+        top: -30px;
+    }
+
+    .fashion_one {
+        left: 10%;
+        top: 0%;
+    }
+
+    .fashion_two {
+        right: 3%;
+    }
+
+    .fashion_three {
+        right: 3%;
+        top: 56px;
+    }
+
+    .fashion_four {
+        left: 10%;
+        top: 242px;
+    }
+
+    .fashion_five {
+        right: 33%;
+        top: 430px;
+    }
+
+    .fashion_six {
+        right: 3%;
+        top: 107px;
+    }
+
+    .margin_top {
+        margin-top: 618px;
+    }
+
+    .fashion_flex {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    /* end community part */
+    /* contact us start */
+    .footer_margin {
+        margin-top: 0px;
+    }
+
+    .contact_video_player_design {
+        margin-top: 560px;
+    }
+
+    .text_me {
+        height: 42.432px;
+        width: 36.017px;
+        margin-top: -302px;
+        margin-left: 566px;
+    }
+
+    .home {
+        height: 41.432px;
+        width: 62.017px;
+        margin-top: -324px;
+        margin-left: 630px;
+    }
+
+    .mail_me {
+        height: 53.432px;
+        width: 25.017px;
+        margin-top: -358px;
+        margin-left: 726px;
+    }
+
+    .aer {
+        height: 24.432px;
+        width: 37.017px;
+        margin-top: -233px;
+        margin-left: 588px;
+    }
+
+    .ccs {
+        height: 24.432px;
+        width: 37.017px;
+        margin-top: -254px;
+        margin-left: 663px;
+    }
+
+    .ftst {
+        height: 23.432px;
+        width: 39.017px;
+        margin-top: -274px;
+        margin-left: 739px;
+    }
+
+    .ftsm {
+        height: 21.432px;
+        width: 33.017px;
+        margin-top: -186px;
+        margin-left: 609px;
+    }
+}
+
+@media (min-width: 1281.9px) and (max-width: 1499px) {
+    .tv_cursor {
+        min-height: 41%;
+        min-width: 27%;
+        /*border: 5px solid red;*/
+        z-index: 22;
+        display: inline-block;
+        position: absolute;
+        left: 32%;
+        top: 30%;
+        cursor: pointer;
+    }
+    .mobile_cursor {
+        min-height: 14%;
+        min-width: 16%;
+        /*border: 5px solid red;*/
+        z-index: 999;
+        left: 40%;
+        top: 61%;
+        cursor: pointer;
+        position: absolute;
+    }
+}
+
+
+@media (min-width: 1500px)and (max-width: 1600px) {
+      /* .tv_cursor {
+        min-height: 33%;
+        min-width: 27%;
+        left: 32%;
+        top: 26%;
+      } */
+    .communityDesign {
+        position: absolute;
+        height: 83px;
+        width: 82px;
+        margin-left: 62.5%;
+        margin-top: -28.4%;
+        border: 2px solid transparent;
+        border-radius: 50%;
+    }
+
+    .fashionDesign {
+        position: absolute;
+        height: 84px;
+        width: 87px;
+        margin-left: 62.5%;
+        margin-top: -35.8%;
+        border: 2px solid transparent;
+        border-radius: 50%;
+    }
+
+    .home {
+        height: 61.413px;
+    }
+
+    .ccs {
+        margin-top: -20.1%;
+    }
+
+    .ftst {
+        margin-top: -21.8%;
+    }
+
+    .ftsm {
+        margin-top: -14.8%;
+    }
+
+    .fashion_four {
+        top: 295px;
+    }
+
+    .fashion_five {
+        top: 524px;
+    }
+
+}
+
+
+
+/*responsive end*/
